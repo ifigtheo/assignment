@@ -81,8 +81,10 @@ User can see the available Routes using command
 php bin/console debug:router
 ```
 ## Tools
+I used the following tools:
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - IDE
 * [XAMMP](https://www.apachefriends.org/index.html) - PHP Development environment
 * [RabbitMQ](https://www.rabbitmq.com/) - Open source message broker
+* [DBeaver] (https://dbeaver.io/) - Universal Database Tool
 
 [4]: https://symfony.com/download
